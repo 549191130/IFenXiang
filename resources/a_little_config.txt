@@ -1,0 +1,10 @@
+dbs = main
+
+main_jdbcUrl = jdbc:mysql://rm-bp14lu9p6a4q5a69pio.mysql.rds.aliyuncs.com/wx?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=true
+main_user = root
+main_password = 549191130Qq
+
+devMode = true
+
+appId = wx7263bdba68985a00
+appSecret = 412c58d23739426ffcba5a8f4caf3afd

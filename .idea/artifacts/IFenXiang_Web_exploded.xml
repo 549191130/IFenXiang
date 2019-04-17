@@ -1,0 +1,63 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IFenXiang:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IFenXiang_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IFenXiang/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IFenXiang" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="c3p0-0.9.1.2.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="cglib-nodep-2.1_3.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-codec-1.10.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-fileupload-1.3.1.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-httpclient-3.1.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-io-2.5.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-lang-2.5.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-lang3-3.3.2.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="druid-1.0.5.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="fastjson-1.2.4.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="httpclient-4.3.5.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="httpcore-4.4.9.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="jfinal-3.1-bin.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="log4j-1.2.16.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="log4j-over-slf4j-1.7.7.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="log4jdbc-1.2.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="logback-classic-0.9.29.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="logback-core-0.9.29.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.10-bin.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="quartz-2.2.3.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="quartz-jobs-2.2.3.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="slf4j-api-1.7.24.jar" module-name="IFenXiang" />
+          <element id="library" level="module" name="slf4j-jdk14-1.7.24.jar" module-name="IFenXiang" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/druid-1.0.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.16.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4jdbc-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/quartz-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/fastjson-1.2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/httpcore-4.4.9.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jfinal-3.1-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/httpclient-4.3.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.24.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/quartz-jobs-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-codec-1.10.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-jdk14-1.7.24.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.3.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-core-0.9.29.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-over-slf4j-1.7.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-classic-0.9.29.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
