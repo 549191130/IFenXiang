@@ -3,6 +3,7 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="AliAccessStaticViaInstance" enabled="false" level="BLOCKER" enabled_by_default="false" />
     <inspection_tool class="AliArrayNamingShouldHaveBracket" enabled="false" level="MAJOR" enabled_by_default="false" />
+    <inspection_tool class="AliControlFlowStatementWithoutBraces" enabled="false" level="BLOCKER" enabled_by_default="false" />
     <inspection_tool class="AliDeprecation" enabled="false" level="CRITICAL" enabled_by_default="false" />
     <inspection_tool class="AliEqualsAvoidNull" enabled="false" level="CRITICAL" enabled_by_default="false" />
     <inspection_tool class="AliLongLiteralsEndingWithLowercaseL" enabled="false" level="BLOCKER" enabled_by_default="false" />
