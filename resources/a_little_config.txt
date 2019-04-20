@@ -1,0 +1,10 @@
+dbs = main
+
+main_jdbcUrl = jdbc:mysql://localhost/wx?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=true
+main_user = root
+main_password = root
+
+devMode = true
+
+appId = 你的小程序appId
+appSecret = 你的小程序appSecret
